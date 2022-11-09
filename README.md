@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 #### About Me 😄
-
+- Dankook University Mobile System Engineering (2019 ~)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abee3417&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
