@@ -1,7 +1,13 @@
-### Hi there 👋
+#### About Me
+- 단국대학교 모바일시스템공학과 (2019 ~)
+- KT 창의혁신리더 1기 (2022 ~)
+
 ---
-#### About Me 😄
-- Dankook University Mobile System Engineering (2019 ~)
+#### Certification
+- 컴퓨터활용능력 1급
+- 워드프로세서
+- ITQ 파워포인트
+
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abee3417&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
