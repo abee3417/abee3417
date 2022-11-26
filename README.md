@@ -7,6 +7,7 @@
 - 컴퓨터활용능력 1급
 - 워드프로세서
 - ITQ 파워포인트
+- AI-900 : Microsoft Azure AI
 
 ---
 ### Study
