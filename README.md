@@ -10,6 +10,11 @@
 - AI-900 : Microsoft Azure AI
 
 ---
+### Tech Stack
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+
+---
 ### Study
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abee3417&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
