@@ -1,18 +1,18 @@
-### About Me
+## About Me
 - 단국대학교 모바일시스템공학과 (2019 ~)
 - KT 창의혁신리더 1기 (2022 ~)
 
 ---
-### Certification
+## Certification
 - 컴퓨터활용능력 1급
 - 워드프로세서
 - ITQ 파워포인트
 - AI-900 : Microsoft Azure AI
 
 ---
-### Tech Stack
+## Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/C-2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white">
@@ -37,7 +37,7 @@
 </p>
 
 ---
-### Study
+## Study
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abee3417&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
