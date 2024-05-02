@@ -13,11 +13,11 @@
 
 
 
-## Study
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abee3417)](https://solved.ac/abee3417)<br><br>
+<!--
+## Study
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abee3417&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 
-<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abee3417&show_icons=true&theme=default)
 
 
