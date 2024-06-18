@@ -10,6 +10,7 @@
 - 워드프로세서
 - ITQ 파워포인트
 - AI-900 : Microsoft Azure AI
+- 정보처리기사
 
 
 
