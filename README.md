@@ -1,19 +1,41 @@
 ## About Me
-- 단국대학교 모바일시스템공학과 (2019 ~)
-- KT 창의혁신리더 1기 (2022 ~)
-- DKU C&I Lab (2023 ~)
-- WFK ICT 베트남 봉사단원 (2024 ~)
+- Master's Student at Sungkyunkwan University
+- Department of Artificial Intelligence
+- Member of Medical Big Data Laboratory
 
+## Research Interest
+- Machine Learning
+- Medical AI
 
+## Experiences
+#### Undergraduate Research Student at C&I Lab
+- Communication and Intelligence Lab under the supervision of Prof. Kyu-haeng Lee
+- Experience in machine learning project and research paper seminars
+#### WFK ICT Volunteers for Vietnam
+- Affiliated with National Information Society Agency
+- IT teacher at Thang Long Middle School in Hanoi
+#### 1st Creative Innovation Leader Student
+- Affiliated with KT Group Hope Sharing Foundation
+- Talend donation and support for underprivileged groups based on IT
+#### AI-Based Mental Health Care Platform Research Project
+- Participating Researcher
+- Development of a loneliness prediction model
+#### DANMOA : AI Study Assistant Service using BERT
+- AI service for setting study goals based on user status
+- Using resume and job-posting dataset to train a model based on SimCSE
+#### CATutor : MIPS Graphic Simulator Web
+- Translate user-input C code to MIPS assembly language
+- Visualization of memory and register states during code execution
 
-## Certification
-- 컴퓨터활용능력 1급
-- 워드프로세서
-- ITQ 파워포인트
-- AI-900 : Microsoft Azure AI
-- 정보처리기사
-
-
+## Certifications
+- Information Processing Engineer
+- Microsoft Azure AI-900
+- Computer Specialist in Spreadsheet and Database
+  
+## Skills
+- Programming : Python, C, C++, JAVA
+- Deep Learning : Pandas, Numpy, TensorFlow, Scikit-learn, Matplotlib
+- Framework : Django, Bootstrap, Flutter
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abee3417)](https://solved.ac/abee3417)<br><br>
 <!--
